@@ -1,9 +1,0 @@
-﻿
-<form action="send.php" method="post">
-                       
-Ваше имя: <br> <input type="text" name="first_name"><br>
-Email: <br> <input type="text" name="email" required placeholder="Обязательное поле"><br>
-Сообщение:<br><textarea rows="5" name="message" cols="30"></textarea><br>
-<input type="submit" name="submit" value="Submit">
-</form>
-
