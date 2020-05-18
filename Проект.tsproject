@@ -1,0 +1,104 @@
+﻿[project]
+type=TurboSite 1.7 project
+olddir=C:\Users\spekt\OneDrive\Рабочий стол\13.05.2020 Мастер публикаций в сети интернет\
+themedirname=Indication
+Extension=html
+pagecount=2
+blockcount=5
+SiteTitle=Мои достижения и практические навыки
+Description=Создание сайтов в программе TurboSite
+KeyWords=Достижения, навыки
+
+[FTP]
+Dir=/
+Passive=1
+
+[pages]
+index=Главная
+page1=Достижения
+page2=Навыки
+
+[mainmenu]
+index=1
+page1=0
+page2=0
+
+[pagemenu]
+index=1
+page1=1
+page2=1
+
+[ContactForm]
+index=0
+page1=0
+page2=0
+
+[SocialIcons]
+index=0
+page1=0
+page2=0
+
+[Comments]
+index=0
+page1=0
+page2=0
+
+[titlebold]
+index=0
+page1=0
+page2=0
+
+[OwnDescriptionCheck]
+index=0
+page1=0
+page2=0
+
+[OwnKeywordsCheck]
+index=0
+page1=0
+page2=0
+
+[OwnTitleCheck]
+index=0
+page1=0
+page2=0
+
+[OwnDescription]
+index=
+page1=
+page2=
+
+[OwnKeywords]
+index=
+page1=
+page2=
+
+[OwnTitle]
+index=
+page1=
+page2=
+
+[PageRedirURL]
+index=
+page1=
+page2=
+
+[DisplayTestResult]
+index=1
+page1=1
+page2=1
+
+[keys]
+Подзаголовок=
+Заголовок-списка-страниц=Меню
+Заголовок-о-сайте=
+Коротко-о-сайте=
+Подвал=
+
+[blocks]
+block1=Сайт сделал:
+block2=Счётчик посещений
+block3=Контакты
+block4=Обратная связь
+block5=Место обучения
+
